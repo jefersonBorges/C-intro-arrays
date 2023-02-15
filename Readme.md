@@ -1,8 +1,8 @@
-# About
+# 💬 About
 
 These exercises are a practice of C language inside the discipline of data structure 1, belonging to the course of Computer Engineering.
 
-## content
+## 👨🏽‍💻 C content
 
 - arrays
 - functions
@@ -13,7 +13,15 @@ These exercises are a practice of C language inside the discipline of data struc
 
 ---
 
-## Arrays - Exercises
+## 🎯 Project Objectives
+
+- Practice of C language arrays
+
+---
+
+### Arrays - Exercises
+
+---
 
 ### Exercise - 1
 
@@ -38,6 +46,8 @@ store the value of all products, do 5 functions that:
 3. return the value of the cheapest product;
 4. return the total amount spent on purchases;
 5. return the average of purchased products;
+
+---
 
 ### Exercise - 2
 
